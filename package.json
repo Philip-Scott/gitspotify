@@ -1,0 +1,14 @@
+{
+  "name": "gitspotify",
+  "version": "1.0.0",
+  "description": "Manage a playlist, the geek way!",
+  "main": "index.js",
+  "author": "Felipe Escoto <felescoto95@hotmail.com>",
+  "scripts": {
+    "start": "node index"
+  },
+
+  "dependencies": {
+    "spotify-web-api-node": "^2.5.0"
+  }
+}
